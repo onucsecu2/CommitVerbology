@@ -13,7 +13,7 @@ adopt
 advise
 agree
 alert
-always
+align
 allow
 alter
 analyze
@@ -75,6 +75,7 @@ collapse
 collect
 color
 command
+comment
 communicate
 compare
 compile
@@ -102,6 +103,7 @@ crash
 create
 curve
 cut
+deactivate
 decorate
 define
 delay
@@ -109,6 +111,7 @@ delegate
 deliver
 demonstrate
 deploy
+depricate
 describe
 design
 destroy
@@ -219,6 +222,7 @@ increase
 induce
 influence
 inform
+inherit
 initiate
 inject
 innovate
@@ -234,6 +238,7 @@ interpret
 interrupt
 introduce
 invite
+iterate
 join
 jump
 justify
@@ -322,6 +327,7 @@ publish
 pull
 purchase
 push
+pushback
 put
 queue
 quickfix
@@ -338,6 +344,7 @@ reduce
 refactor
 refer
 reflect
+refresh
 regulate
 reinforce
 reject
@@ -375,6 +382,7 @@ revise
 revoke
 rewrite
 roll
+rollback
 root
 run
 scale
@@ -442,6 +450,7 @@ troubleshoot
 trust
 turn
 tweak
+uncomment
 unify
 uninstall
 unlock
